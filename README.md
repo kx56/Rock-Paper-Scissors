@@ -11,7 +11,6 @@ Welcome to the Rock Paper Scissors game! Challenge the computer and see who emer
 - [How to Play](#how-to-play)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
