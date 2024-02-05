@@ -1,6 +1,7 @@
 # Rock Paper Scissors
 
 Welcome to the Rock Paper Scissors game! Challenge the computer and see who emerges victorious.
+
 ![Gameplay Screenshot](screenshots/gameplay.png)
 
 ## Table of Contents
@@ -43,8 +44,10 @@ cd rock-paper-scissors
 
 ## Screenshots
 
+![Gameplay Screenshot](screenshots/gameplay1.png)
+![Gameplay Screenshot](screenshots/gameplay2.png)
 
 
-##Contributing
+## Contributing
 
 Contributions are welcome! If you find a bug or have an enhancement in mind, feel free to open an issue or submit a pull request.
